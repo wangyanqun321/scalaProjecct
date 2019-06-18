@@ -4,7 +4,7 @@ package com.wyq.scala.day0617
   * scala的格式化输出
   * 1. 普通输出
   * 2. printf格式化输出
-  * 3. 单变量可用$,多变量用${} 类似于el表达式（可做运算）
+  * 3. 单变量可用$,多变量用${} 类似于el表达式（可做运算）,注意，字符串前面要加s
   */
 object Demo01 {
   def main(args: Array[String]): Unit = {
